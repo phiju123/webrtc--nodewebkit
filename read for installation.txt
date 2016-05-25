@@ -1,0 +1,5 @@
+1. Install Node js
+2. After installing go to folder where it placed in cmd and write npm install
+3. For building the app nwbuild -p win32 -v 0.12.0 -o "../" -f ./
+
+Note: My server is deployed in heroku. which can also taken as locally. Just visit peerjs server.
